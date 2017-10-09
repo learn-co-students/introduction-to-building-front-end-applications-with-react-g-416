@@ -20,6 +20,8 @@ The fact that it is a library also makes it simple: it doesn't have a huge API a
 
 You usually use a bunch of other tech that is built for (or on top of) React in your final application. We'll focus on only using React for now, since that is the most important part to get down!
 
+Remove the test for README-only labs!
+
 ![Lando Calrissian](https://media.giphy.com/media/3ornk7TgUdhjhTYgta/giphy.gif)
 
 
