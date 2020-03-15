@@ -4,7 +4,7 @@
 1. Explain the topics this course will cover
 2. Describe this course's approach to React
 3. Briefly describe React
-
+n
 ## What you'll learn in this course
 This course is an introduction to React.js, one of the most popular front-end libraries at the moment, with its own very active and extensive ecosystem. Many front-end engineers use React.js to create amazing applications, and you'll be a part of that group yourself in no time!
 
