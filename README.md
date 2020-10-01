@@ -25,3 +25,4 @@ You usually use a bunch of other tech that is built for (or on top of) React in 
 
 ## Resources
 - [React](https://facebook.github.io/react/)
+- [React Docs](https://reactjs.org/docs/getting-started.html)
