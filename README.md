@@ -22,6 +22,5 @@ You usually use a bunch of other tech that is built for (or on top of) React in 
 
 ![Lando Calrissian](https://media.giphy.com/media/3ornk7TgUdhjhTYgta/giphy.gif)
 
-
 ## Resources
 - [React](https://facebook.github.io/react/)
